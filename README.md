@@ -6,6 +6,6 @@ Batch plot response for various variables including active and reactive power ou
 
 ## Plot example
 
-![Alt text](TSAT-VBScripts/image1.png)
-![Alt text](TSAT-VBScripts/image2.png)
+![Alt text](./images/image1.png)
+![Alt text](./images/image2.png)
 
